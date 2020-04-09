@@ -1,0 +1,61 @@
+
+
+#div1{
+padding: 10px 40px;
+background-color: red;
+
+}
+#div2{
+  padding: 10px 40px;
+  background-color: blue;
+}
+
+h1{
+  color:blue;
+ }
+#unico{
+  color:blue;
+}
+body{
+  color: #333; background-color: rgb(173, 163, 204);
+
+}
+#gary{
+
+  color: blue;
+
+}
+#alexis{
+  color: blue;
+}
+
+#bio{
+
+  color: white;
+
+}
+#medel{
+  color: blue;
+}
+
+#label_1{
+
+  color: black;
+}
+#label_2{
+
+  color: black;
+}
+
+
+
+.clase_de_botob{
+  padding: 10px;
+  background-color: uncolor; 
+  border-radius: 6px;
+}
+.clase_de_boto{
+  padding: 10px;
+  background-color: uncolor; 
+  border-radius: 6px;
+
