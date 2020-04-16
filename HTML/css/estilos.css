@@ -1,0 +1,82 @@
+
+
+#div1{
+padding: 10px 40px;
+background-color: red;
+
+}
+#div2{
+  padding: 10px 40px;
+  background-color: blue;
+}
+
+h1{
+  color:blue;
+ }
+#unico{
+  padding: 10px 40px;
+background-color: red;
+  color:blue;
+}
+html,body{
+
+}
+#gary{
+
+  color: yellow;
+
+}
+#alexis{
+  color: yellow;
+}
+
+#bio{
+
+  color: white;
+
+}
+#medel{
+  padding: 10px 40px;
+background-color: red;
+  color: blue;
+}
+
+#label_1{
+
+  color: yellow;
+}
+#label_2{
+
+  color: yellow;
+}
+
+#clase_de_botob{
+    padding: 5px;
+    background-color: uncolor; 
+    border-radius: 6px;
+}
+#clase_de_botoc{
+  padding: 5px;
+  background-color: uncolor; 
+  border-radius: 6px;
+  
+}
+.list-group{
+  max-width: 400px;
+}
+#juga{
+  color: white;
+background-color: blue;
+
+}
+#letra1{
+  padding: 10px 40px;
+background-color: white;
+}
+#letra2{
+  padding: 10px 40px;
+background-color: white;
+}
+#pag{
+  color: yellow
+}
